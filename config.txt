@@ -1,0 +1,3 @@
+# Version 1 configuration
+# Currently no API keys are required.
+# Database URLs are kept in main.py and discovered where possible from official download pages.
